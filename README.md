@@ -12,11 +12,11 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
-> *(Mobile app integration screenshots coming soon)*
+> 🎥 ML model + mobile app integration demo
 
----
+https://github.com/Osman162/ASD-Detector/assets/...
 
 ## ✨ Features
 
