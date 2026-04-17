@@ -16,7 +16,9 @@
 
 > 🎥 ML model + mobile app integration demo
 
-https://github.com/Osman162/ASD-Detector/assets/...
+https://github.com/user-attachments/assets/ad99b6aa-caeb-4d73-b3db-8eaabdf5edc3
+
+---
 
 ## ✨ Features
 
